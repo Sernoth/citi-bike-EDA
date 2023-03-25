@@ -1,5 +1,6 @@
 # citi-bike data analysis
 
-Data analysis and visualization of citi bike data of rented bikes in NYC. Project for university course "Structured Data Processing".
+City bike data analysis and visualization of rented bikes in NYC. Project for university course "Structured Data Processing".
+Below example map chart.
 
-![hour_visualization](./citi-bike-data-analysis/examplecharts/hour_visualization.png)
+![](https://github.com/Sernoth/citi-bike-data-analysis/blob/main/example%20charts/hour_visualization.png?raw=true))
